@@ -1,0 +1,3 @@
+# ignore the executable and emacs-generated backup files
+hello
+*~
